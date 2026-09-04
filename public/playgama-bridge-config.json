@@ -1,0 +1,14 @@
+{
+  "platforms": {},
+  "advertisement": {
+    "interstitial": {
+      "preloadOnStart": false
+    },
+    "rewarded": {
+      "preloadOnStart": false
+    }
+  },
+  "game": {
+    "orientation": "portrait"
+  }
+}
